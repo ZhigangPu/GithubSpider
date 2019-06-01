@@ -1,0 +1,26 @@
+author,project,description
+algorithm-visualizer,algorithm-visualizer,Interactive Online Platform that Visualizes Algorithms from Code
+github,semantic,"Parsing, analyzing, and comparing source code across many languages"
+metafizzy,zdog,"Flat, round, designer-friendly pseudo-3D engine"
+jackfrued,Python-100-Days,Python - 100天从新手到大师
+mathieudutour,medium-to-own-blog,Switch from Medium to your own blog in a few minutes
+jlevy,the-art-of-command-line,"Master the command line, in one page"
+FunctionScript,FunctionScript,A language and specification for turning JavaScript functions into typed HTTP APIs
+MisterBooo,LeetCodeAnimation,Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+binhnguyennus,awesome-scalability,"The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems"
+microsoft,terminal,"The new Windows Terminal, and the original Windows console host -- all in the same place!"
+TheAlgorithms,Python,All Algorithms implemented in Python
+zeit,hyper,A terminal built on web technologies
+FormidableLabs,urql,A highly customizable and versatile GraphQL client for React
+zhihu,rucene,Rust port of Lucene
+Ekultek,BlueKeep,Proof of concept for CVE-2019-0708
+unidoc,unioffice,"Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents"
+tensorflow,tpu,Reference models and tools for Cloud TPUs.
+sdras,cssgridgenerator,🧮Generate basic CSS Grid code to make dynamic layouts!
+greymd,ojichat,おじさんがLINEやメールで送ってきそうな文を生成する
+Snailclimb,JavaGuide,【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+getgridea,gridea,一个静态博客写作客户端 (A static blog writing client)
+colinlet,PHP-Interview-QA,PHP面试问答
+CyC2018,CS-Notes,技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计
+azl397985856,leetcode,LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+hasura,graphql-engine,"Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events."
