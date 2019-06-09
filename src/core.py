@@ -28,7 +28,7 @@ for i in range(projects_num):
     link = 'https://github.com/{author}/{project}'.format(author=author, project=project)
     
     raw_description = html.xpath('//ol[@class="repo-list"]//li[{}]//p//text()'.format(i+1))
-    refined_description = max(raw_description, key=len)
+    refined_description = max(raw_description, key=len) if raw_description else ''
     
     star_path = '//ol[@class="repo-list"]//li[{}]//span[@class="d-inline-block float-sm-right"]//text()'.format(i+1)
     raw_star = max(html.xpath(star_path), key=len)

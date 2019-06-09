@@ -1,26 +1,26 @@
 author,project,description,star,link
-jlevy,the-art-of-command-line,"Master the command line, in one page",1262,https://github.com/jlevy/the-art-of-command-line
-jackfrued,Python-100-Days,Python - 100天从新手到大师,434,https://github.com/jackfrued/Python-100-Days
-imhuster,Enterprise-Registration-Data-of-Chinese-Mainland,"中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.【工商大数据】、【企业信息】、【enterprise registration data】。",317,https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland
-entropic-dev,entropic,"a package registry for anything, but mostly javascript",369,https://github.com/entropic-dev/entropic
-github,semantic,"Parsing, analyzing, and comparing source code across many languages",320,https://github.com/github/semantic
-algorithm-visualizer,algorithm-visualizer,Interactive Online Platform that Visualizes Algorithms from Code,296,https://github.com/algorithm-visualizer/algorithm-visualizer
-Snailclimb,JavaGuide,【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。,213,https://github.com/Snailclimb/JavaGuide
-MisterBooo,LeetCodeAnimation,Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）,223,https://github.com/MisterBooo/LeetCodeAnimation
-microsoft,terminal,"The new Windows Terminal, and the original Windows console host -- all in the same place!",224,https://github.com/microsoft/terminal
-metafizzy,zdog,"Flat, round, designer-friendly pseudo-3D engine for canvas & SVG",229,https://github.com/metafizzy/zdog
-akveo,nebular,Angular 8 UI Library based on Eva Design System,215,https://github.com/akveo/nebular
-v2ray,v2ray-core,A platform for building proxies to bypass network restrictions.,198,https://github.com/v2ray/v2ray-core
-robbyrussell,oh-my-zsh,"A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",208,https://github.com/robbyrussell/oh-my-zsh
-CyC2018,CS-Notes,Basic Knowledge of Technical Interview（技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计）,174,https://github.com/CyC2018/CS-Notes
-lukemelas,EfficientNet-PyTorch,A PyTorch implementation of EfficientNet,190,https://github.com/lukemelas/EfficientNet-PyTorch
-quantumblacklabs,kedro,A Python library for building robust production-ready data and analytics pipelines,183,https://github.com/quantumblacklabs/kedro
-flutter,flutter,Flutter makes it easy and fast to build beautiful mobile apps.,170,https://github.com/flutter/flutter
-calebwin,emu,a language for programming GPUs,174,https://github.com/calebwin/emu
-TheAlgorithms,Python,All Algorithms implemented in Python,150,https://github.com/TheAlgorithms/Python
-mathieudutour,medium-to-own-blog,Switch from Medium to your own blog in a few minutes,166,https://github.com/mathieudutour/medium-to-own-blog
-sindresorhus,awesome,Awesome lists about all kinds of interesting topics,148,https://github.com/sindresorhus/awesome
-vuejs,vue,"Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",143,https://github.com/vuejs/vue
-halo-dev,halo,✍ Halo 一款现代化的个人独立博客系统,144,https://github.com/halo-dev/halo
-Jinxiansen,SwiftUI,This is some of the official examples of the SwiftUI layout framework for the full platform of the apple released by WWDC2019 today. I hope to help you understand and learn this new layout framework!,148,https://github.com/Jinxiansen/SwiftUI
-shapr,markovkeyboard,keyboard layout that changes by markov frequency,148,https://github.com/shapr/markovkeyboard
+rasbt,deeplearning-models,"A collection of various deep learning architectures, models, and tips",856,https://github.com/rasbt/deeplearning-models
+TrillCyborg,onefraction,OneFraction App,827,https://github.com/TrillCyborg/onefraction
+jackfrued,Python-100-Days,Python - 100天从新手到大师,305,https://github.com/jackfrued/Python-100-Days
+jlevy,the-art-of-command-line,"Master the command line, in one page",331,https://github.com/jlevy/the-art-of-command-line
+imhuster,Enterprise-Registration-Data-of-Chinese-Mainland,"中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.【工商大数据】、【企业信息】、【enterprise registration data】。",242,https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland
+sfyc23,EverydayWechat,每日自动给女朋友发微信暖心话。,208,https://github.com/sfyc23/EverydayWechat
+duke7553,files-uwp,"""More than just a rewrite of Windows Explorer""",212,https://github.com/duke7553/files-uwp
+dylanaraps,pure-bash-bible,A collection of pure bash alternatives to external processes.,187,https://github.com/dylanaraps/pure-bash-bible
+google-research,football,,177,https://github.com/google-research/football
+pipe-dream,laravel,Create Laravel projects really fast,167,https://github.com/pipe-dream/laravel
+microsoft,terminal,"The new Windows Terminal, and the original Windows console host -- all in the same place!",151,https://github.com/microsoft/terminal
+CarGuo,GSYFlutterBook,Flutter完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。,151,https://github.com/CarGuo/GSYFlutterBook
+MisterBooo,LeetCodeAnimation,Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）,142,https://github.com/MisterBooo/LeetCodeAnimation
+Snailclimb,JavaGuide,【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。,132,https://github.com/Snailclimb/JavaGuide
+dokun1,Vaux,A HTML DSL library for Swift,138,https://github.com/dokun1/Vaux
+CyC2018,CS-Notes,Basic Knowledge of Technical Interview（技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计）,119,https://github.com/CyC2018/CS-Notes
+entropic-dev,entropic,"a package registry for anything, but mostly javascript 🦝 🦝 🦝",114,https://github.com/entropic-dev/entropic
+mathieudutour,medium-to-own-blog,Switch from Medium to your own blog in a few minutes,109,https://github.com/mathieudutour/medium-to-own-blog
+TheAlgorithms,Python,All Algorithms implemented in Python,91,https://github.com/TheAlgorithms/Python
+0voice,from_coder_to_expert,2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT,89,https://github.com/0voice/from_coder_to_expert
+v2ray,v2ray-core,A platform for building proxies to bypass network restrictions.,85,https://github.com/v2ray/v2ray-core
+github,semantic,"Parsing, analyzing, and comparing source code across many languages",94,https://github.com/github/semantic
+unixzii,SwiftUI-2048,A 2048 game writing with SwiftUI.,90,https://github.com/unixzii/SwiftUI-2048
+system-ui,theme-ui,"Build consistent, themeable React UIs based on design system constraints and design tokens",89,https://github.com/system-ui/theme-ui
+sveltejs,svelte,Cybernetically enhanced web apps,87,https://github.com/sveltejs/svelte
